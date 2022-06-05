@@ -1,1 +1,2 @@
-*.pyc, img/*.png
+*.pyc
+img/*.png
